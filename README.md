@@ -1,73 +1,29 @@
-# Welcome to your Lovable project
+# Mehnat-Kash (محنت کش)
 
-## Project info
+**Mehnat-Kash** is a localized digital marketplace designed to connect skilled blue-collar workers with customers. The platform aims to empower local laborers—such as electricians, plumbers, and carpenters—by giving them a professional digital presence while providing users with a reliable way to find help for their daily needs.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## 🚀 The Vision
+In many traditional markets, workers wait at physical locations for daily wages. Mehnat-Kash digitizes this process, reducing the "waiting time" for workers and the "searching time" for customers, ultimately fostering a more efficient local gig economy.
 
-## How can I edit this code?
+## ✨ Key Features
+- **Worker Directory:** Browse through various categories of skilled labor.
+- **Detailed Profiles:** View worker skills, experience, and contact details.
+- **Responsive Design:** Fully optimized for mobile devices, ensuring accessibility for all users.
+- **Search & Filter:** Find specific services in your local area quickly.
 
-There are several ways of editing your application.
+## 🛠️ Tech Stack
+- **Frontend:** [Next.js](https://nextjs.org/) (React)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **UI Components:** [Shadcn/UI](https://ui.shadcn.com/)
+- **Runtime:** [Bun](https://bun.sh/)
+- **Language:** TypeScript
 
-**Use Lovable**
+## 📦 Getting Started
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+### Prerequisites
+Ensure you have [Bun](https://bun.sh/) installed on your machine.
 
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Masab-Umair/mehnat-kash.git](https://github.com/Masab-Umair/mehnat-kash.git)
