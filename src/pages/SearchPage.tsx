@@ -1,6 +1,6 @@
 import { useEffect, useState, useMemo, lazy, Suspense } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Search, MapPin, X, List, Map as MapIcon, Navigation, Loader2 } from "lucide-react";
+import { Search, MapPin, X, List, Map as MapIcon, Navigation, Loader2 } from "@/components/icons/FontAwesomeIcons";
 import { useSearchParams, useNavigate } from "react-router-dom";
 import { supabase } from "@/integrations/supabase/client";
 import { ProfessionalCard } from "@/components/ui/ProfessionalCard";

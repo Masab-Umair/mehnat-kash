@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Star, MapPin, Clock, Phone } from "lucide-react";
+import { Star, MapPin, Clock, Phone } from "@/components/icons/FontAwesomeIcons";
 
 interface ProfessionalCardProps {
   id: string;

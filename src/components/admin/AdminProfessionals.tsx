@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
-import { Check, X, Clock, Star, MapPin, Phone, User } from "lucide-react";
+import { Check, X, Clock, Star, MapPin, Phone, User } from "@/components/icons/FontAwesomeIcons";
 import { supabase } from "@/integrations/supabase/client";
 import { StatusBadge } from "@/components/ui/StatusBadge";
 import { toast } from "sonner";

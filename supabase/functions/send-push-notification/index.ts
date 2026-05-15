@@ -383,8 +383,8 @@ Deno.serve(async (req) => {
     const payload = JSON.stringify({
       title: safeTitle || "TashkHaath Connect",
       body: safeBody || "You have a new notification",
-      icon: "/pwa-192x192.png",
-      badge: "/pwa-192x192.png",
+      icon: "/app-icon.svg",
+      badge: "/app-icon.svg",
       data: safeData,
     });
 

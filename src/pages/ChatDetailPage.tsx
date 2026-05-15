@@ -1,6 +1,6 @@
 import { useState, useRef, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ArrowLeft, Send, Image as ImageIcon, Check, CheckCheck, Loader2 } from "lucide-react";
+import { ArrowLeft, Send, Image as ImageIcon, Check, CheckCheck, Loader2 } from "@/components/icons/FontAwesomeIcons";
 import { useNavigate, useParams } from "react-router-dom";
 import { useChat } from "@/hooks/useChat";
 import { format, isToday, isYesterday } from "date-fns";

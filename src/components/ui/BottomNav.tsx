@@ -1,4 +1,4 @@
-import { Home, Search, Briefcase, User, Bell, MessageCircle } from "lucide-react";
+import { Home, Search, Briefcase, User, Bell, MessageCircle } from "@/components/icons/FontAwesomeIcons";
 import { useLocation, useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
 import { useTranslation } from "react-i18next";

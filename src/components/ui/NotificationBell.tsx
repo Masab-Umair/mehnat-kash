@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Bell } from "lucide-react";
+import { Bell } from "@/components/icons/FontAwesomeIcons";
 
 interface NotificationBellProps {
   count: number;

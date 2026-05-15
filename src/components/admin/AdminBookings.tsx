@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
-import { Calendar, User, Briefcase, Clock, MapPin, DollarSign } from "lucide-react";
+import { Calendar, User, Briefcase, Clock, MapPin, DollarSign } from "@/components/icons/FontAwesomeIcons";
 import { supabase } from "@/integrations/supabase/client";
 import { StatusBadge } from "@/components/ui/StatusBadge";
 import { format } from "date-fns";

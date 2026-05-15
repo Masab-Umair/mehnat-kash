@@ -1,4 +1,4 @@
-import { Check, X, Clock, Loader2, Star, DollarSign, CreditCard } from "lucide-react";
+import { Check, X, Clock, Loader2, Star, DollarSign, CreditCard } from "@/components/icons/FontAwesomeIcons";
 
 type BookingStatus = "requested" | "accepted" | "rejected" | "in_progress" | "completed" | "rated" | "paid" | "unpaid";
 

@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Download, X, Smartphone } from "lucide-react";
+import { Download, X, Smartphone } from "@/components/icons/FontAwesomeIcons";
 
 interface BeforeInstallPromptEvent extends Event {
   prompt(): Promise<void>;

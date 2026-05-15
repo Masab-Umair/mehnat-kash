@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
-import { Plus, Edit2, Trash2, Check, X, Zap, Droplets, Hammer, Paintbrush, Fan, Cog } from "lucide-react";
+import { Plus, Edit2, Trash2, Check, X, Zap, Droplets, Hammer, Paintbrush, Fan, Cog } from "@/components/icons/FontAwesomeIcons";
 import { supabase } from "@/integrations/supabase/client";
 import { toast } from "sonner";
 

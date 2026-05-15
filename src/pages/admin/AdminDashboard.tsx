@@ -8,7 +8,7 @@ import {
   Shield,
   ChevronRight,
   LogOut
-} from "lucide-react";
+} from "@/components/icons/FontAwesomeIcons";
 import { useNavigate } from "react-router-dom";
 import { supabase } from "@/integrations/supabase/client";
 import { AdminProfessionals } from "@/components/admin/AdminProfessionals";

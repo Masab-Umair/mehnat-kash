@@ -12,7 +12,7 @@ import {
   Phone,
   CreditCard,
   CheckCircle2,
-} from "lucide-react";
+} from "@/components/icons/FontAwesomeIcons";
 import { BottomNav } from "@/components/ui/BottomNav";
 import { NotificationBell } from "@/components/ui/NotificationBell";
 import { StatusBadge } from "@/components/ui/StatusBadge";

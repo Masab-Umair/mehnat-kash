@@ -9,7 +9,7 @@ import {
   Zap,
   Droplets,
   MapPin,
-} from "lucide-react";
+} from "@/components/icons/FontAwesomeIcons";
 import { RatingStars } from "@/components/ui/RatingStars";
 
 type OnboardingStep = "photo" | "profession" | "skills" | "rate" | "location" | "complete";

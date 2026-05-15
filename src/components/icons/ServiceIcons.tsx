@@ -1,4 +1,4 @@
-import { Zap, Wrench, Droplets, Hammer, Paintbrush, Fan, Cog } from "lucide-react";
+import { Zap, Wrench, Droplets, Hammer, Paintbrush, Fan, Cog } from "@/components/icons/FontAwesomeIcons";
 
 export const ElectricianIcon = ({ className = "w-12 h-12" }: { className?: string }) => (
   <div className={`${className} relative`}>

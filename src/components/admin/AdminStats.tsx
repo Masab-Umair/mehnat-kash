@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
-import { Users, Briefcase, CheckCircle, Clock, DollarSign, TrendingUp } from "lucide-react";
+import { Users, Briefcase, CheckCircle, Clock, DollarSign, TrendingUp } from "@/components/icons/FontAwesomeIcons";
 import { supabase } from "@/integrations/supabase/client";
 
 interface Stats {

@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { MapPin, ChevronRight, Sparkles, Shield } from "lucide-react";
+import { MapPin, ChevronRight, Sparkles, Shield } from "@/components/icons/FontAwesomeIcons";
 import { ServiceCard } from "@/components/ui/ServiceCard";
 import { ProfessionalCard } from "@/components/ui/ProfessionalCard";
 import { BottomNav } from "@/components/ui/BottomNav";

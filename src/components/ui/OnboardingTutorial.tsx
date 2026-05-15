@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Search, MessageCircle, Star, Shield, MapPin, X } from "lucide-react";
+import { Search, MessageCircle, Star, Shield, MapPin, X } from "@/components/icons/FontAwesomeIcons";
 import { Button } from "@/components/ui/button";
 
 interface Step {

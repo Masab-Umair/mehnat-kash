@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { MessageCircle, LogIn } from "lucide-react";
+import { MessageCircle, LogIn } from "@/components/icons/FontAwesomeIcons";
 import { BottomNav } from "@/components/ui/BottomNav";
 import { useConversations } from "@/hooks/useConversations";
 import { useNavigate } from "react-router-dom";

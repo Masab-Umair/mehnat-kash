@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Briefcase, Clock, Star } from "lucide-react";
+import { Briefcase, Clock, Star } from "@/components/icons/FontAwesomeIcons";
 import { BottomNav } from "@/components/ui/BottomNav";
 import { StatusBadge } from "@/components/ui/StatusBadge";
 import { RatingModal } from "@/components/ui/RatingModal";

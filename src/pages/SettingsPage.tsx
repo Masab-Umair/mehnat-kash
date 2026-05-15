@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { motion } from "framer-motion";
-import { ArrowLeft, Moon, Sun, Globe, Bell, BellOff, Smartphone, Info } from "lucide-react";
+import { ArrowLeft, Moon, Sun, Globe, Bell, BellOff, Smartphone, Info } from "@/components/icons/FontAwesomeIcons";
 import { useNavigate } from "react-router-dom";
 import { BottomNav } from "@/components/ui/BottomNav";
 import { usePushNotifications } from "@/hooks/usePushNotifications";

@@ -13,7 +13,7 @@ import {
   Calendar,
   MessageSquare,
   X,
-} from "lucide-react";
+} from "@/components/icons/FontAwesomeIcons";
 import { supabase } from "@/integrations/supabase/client";
 import { RatingStars } from "@/components/ui/RatingStars";
 import { toast } from "sonner";

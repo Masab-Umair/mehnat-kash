@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { X, Send, Loader2 } from "lucide-react";
+import { X, Send, Loader2 } from "@/components/icons/FontAwesomeIcons";
 import { RatingStars } from "@/components/ui/RatingStars";
 import { supabase } from "@/integrations/supabase/client";
 import { toast } from "@/hooks/use-toast";

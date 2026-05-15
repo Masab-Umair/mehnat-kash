@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { User, Phone, MapPin, LogOut, Star, Briefcase, ChevronRight, Bell, Mail, Edit3, X, Check, Loader2, Wrench, Settings } from "lucide-react";
+import { User, Phone, MapPin, LogOut, Star, Briefcase, ChevronRight, Bell, Mail, Edit3, X, Check, Loader2, Wrench, Settings } from "@/components/icons/FontAwesomeIcons";
 import { useNavigate } from "react-router-dom";
 import { supabase } from "@/integrations/supabase/client";
 import { BottomNav } from "@/components/ui/BottomNav";
